@@ -20,10 +20,10 @@ Bowling Action Legality Analysis Using Pose Detection is a system designed to an
 ## Demo & Screenshots
 
 ### 🎥 Demo Video  
-[![Watch the Demo](assets/ScreenShot.png)](assets/demo video (online-video-cutter.com).mp4)
+[![Watch the Demo](ScreenShot.png)](demo video (online-video-cutter.com).mp4)
 
 ### 🖼️ Screenshot  
-![Screenshot](assets/ScreenShot.png)
+![Screenshot](ScreenShot.png)
 
 ## Features
 

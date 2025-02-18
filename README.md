@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need support, feel free to reach out:
 
-- **Email**: mughaldanish@example.com
+- **Email**: danish54321@gmail.com
 - **GitHub Issues**: [Create an Issue](https://github.com/MughalDanish/Bowling-Action-Legality-Analysis-Using-Pose-Detection/issues)
 
 We appreciate your feedback and contributions!
